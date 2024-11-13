@@ -1,0 +1,115 @@
+.menu {
+
+  font-size: 20px;
+
+}
+
+.contractmenu {
+  font-size: 20px;
+  color: #5E3BEE;
+  text-align: right;
+  justify-content: end;
+}
+
+
+
+
+.text {
+  color: darkblue;
+
+}
+
+.btn {
+  border: 1px solid rgb(99, 70, 246);
+  border-radius: 5px;
+  color: rgb(99, 70, 246);
+  display: flex;
+  justify-content: end;
+
+
+
+}
+
+.hero {
+  background-color: #F5FCFF;
+  position: 0px 95px;
+
+  padding: 3px;
+}
+
+.product {
+  color: #5E3BEE;
+
+}
+
+.skill {
+  background-color: #F5FCFF;
+}
+
+.skilexpertise {
+  background-color: #FFFFFF;
+}
+
+.webflo {
+  color: #282938;
+}
+
+.about {
+  background-color: white;
+}
+
+.contract {
+  background-color: white;
+  border: 1px solid #5E3BEE;
+}
+
+.contractpage {
+  background-color: #FFFFFF;
+}
+
+.btn2 {
+  background-color: #5E3BEE;
+}
+
+.footer1 {
+  word-spacing: 20px;
+}
+
+.footer {
+  padding: 1% 10%;
+  width: 80%;
+  margin: auto;
+
+}
+
+.footer-collum a {
+  font-size: 20px;
+  text-decoration: none;
+  word-spacing: 10px;
+
+
+}
+
+.footer {
+  background-color: #F5FCFF;
+
+}
+
+.footterr {
+  border-top: #282938;
+}
+
+.card-color {
+  background-color: #F5FCFF;
+
+}
+
+.card-size {
+  height: 350px;
+  width: 300px;
+}
+
+.card-image {
+  width: 60px;
+  height: 60px;
+}
